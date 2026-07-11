@@ -4,12 +4,12 @@
 <link rel="manifest" href="/site.webmanifest">
 
 <p align="center">
-  <img width="300" src="LOGO_17.png">
+  <img width="300" src="FRFT-LOGO-01.png">
  </p>
 
-<h1 align="center">Pandone Technology Solutions, LLC</h1>
+<h1 align="center">Front Range Freedom Tech, LLC</h1>
 
-### A private consultation business focused on emerging technologies and industrial applications. 
+### Freedom technology development, manufacturing, and distribution. 
 
 <p>Initiate contact by submitting an email address:</p>
 <section id="contact">
@@ -48,4 +48,4 @@
   </div>
 </section>
 <br>
-<p align="center"> &copy; 2025 Pandone Technology Solutions, LLC</p>
+<p align="center"> &copy; 2026 Front Range Freedom Tech, LLC</p>
